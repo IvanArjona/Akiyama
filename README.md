@@ -2,3 +2,5 @@
 
 - Reizei
 - Isuzu
+- Nishizumi
+- Takebe
